@@ -17,3 +17,6 @@ This module is based on FT232RL/FT231XS and MAX202.
 Schematic is available in pdf format in the repository. Module features 3V3 to 5V level shifter. RX and TX on the pin header arer 5V TTL.
 
 **ONLY USE FT232RL OR FT231XS, NOT BOTH AT THE SAME TIME. MODULE IS DESIGNED SO THEY CAN BE USED INTERCHANGEABLY!!!**
+
+## Licence
+Creative Commons Zero 1.0 Universal
